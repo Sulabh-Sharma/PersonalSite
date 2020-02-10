@@ -1,0 +1,135 @@
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 50px  auto 0 auto;
+  font-size: 4.5rem;
+  color: #66bfbf;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  margin: 100px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #94d3ac;
+  border-width: 5px;
+  width: 4%;
+}
+
+a{
+    color: #11999e;
+      font-family: 'Montserrat', sans-serif;
+      margin: 10px 20px;
+      text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+.title{
+  font-weight: normal;
+  color: #66bfbf;
+}
+
+.top-container{
+  background-color: #e1f4f3;
+  position: relative;
+  padding-top: 80px;
+}
+
+.middle-container{
+  margin: 80px 0;
+}
+
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.skill-row{
+  text-align: left;
+  margin: 90px auto 150px auto;
+  width: 50%;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 70px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 340px;
+}
+
+.code-pic{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.laptop-pic{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 70px;
+}
+
+.btn {
+	background-color:#11cdcd;
+	border-radius:17px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:14px 20px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
